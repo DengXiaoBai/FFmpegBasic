@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79ce718f-c2d1-40aa-bb27-8b7c453d9fa3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="media_sync.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/media_sync.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="1121" column="11" lean-forward="true" selection-start-line="1121" selection-start-column="11" selection-end-line="1121" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video_seek.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/video_seek.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="903" column="13" lean-forward="false" selection-start-line="903" selection-start-column="13" selection-end-line="903" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+                <element signature="e#1062#1200#0" expanded="false" />
+                <element signature="e#1224#1432#0" expanded="false" />
+                <element signature="e#1456#3362#0" expanded="false" />
+                <element signature="e#3376#3465#1" expanded="false" />
+                <element signature="e#3469#3564#0" expanded="false" />
+                <element signature="e#3632#3786#0" expanded="false" />
+                <element signature="e#3788#4369#0" expanded="false" />
+                <element signature="e#4370#5155#0" expanded="false" />
+                <element signature="e#5157#5537#0" expanded="false" />
+                <element signature="e#5539#6015#0" expanded="false" />
+                <element signature="e#6016#6199#0" expanded="false" />
+                <element signature="e#6200#6289#0" expanded="false" />
+                <element signature="e#6291#6580#0" expanded="false" />
+                <element signature="e#6583#6664#0" expanded="false" />
+                <element signature="e#6583#9127#0" expanded="false" />
+                <element signature="e#9129#11357#0" expanded="false" />
+                <element signature="e#11359#12486#0" expanded="false" />
+                <element signature="e#12488#12710#0" expanded="false" />
+                <element signature="e#12712#12867#0" expanded="false" />
+                <element signature="e#12869#14027#0" expanded="false" />
+                <element signature="e#14029#16525#0" expanded="false" />
+                <element signature="e#15150#15277#0" expanded="false" />
+                <element signature="e#16527#18153#0" expanded="false" />
+                <element signature="e#18155#19735#0" expanded="false" />
+                <element signature="e#19737#20332#0" expanded="false" />
+                <element signature="e#20334#21521#0" expanded="false" />
+                <element signature="e#21523#24425#0" expanded="false" />
+                <element signature="e#24427#28202#0" expanded="false" />
+                <element signature="e#28204#28419#0" expanded="false" />
+                <element signature="e#30444#30672#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paly_sound.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/paly_sound.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sound_sample.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/sound_sample.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+                <element signature="e#657#795#0" expanded="false" />
+                <element signature="e#818#1773#0" expanded="false" />
+                <element signature="e#1827#1981#0" expanded="false" />
+                <element signature="e#1983#2521#0" expanded="false" />
+                <element signature="e#2523#3338#0" expanded="false" />
+                <element signature="e#3340#3721#0" expanded="false" />
+                <element signature="e#3723#9119#0" expanded="false" />
+                <element signature="e#9121#10028#0" expanded="false" />
+                <element signature="e#10030#13860#0" expanded="false" />
+                <element signature="e#13861#14112#0" expanded="false" />
+                <element signature="e#13861#15821#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video_thread2.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_thread2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="922" column="5" lean-forward="false" selection-start-line="922" selection-start-column="5" selection-end-line="922" selection-end-column="5" />
+              <folding>
+                <element signature="e#130#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video_thread.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_thread.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="963" column="4" lean-forward="false" selection-start-line="963" selection-start-column="4" selection-end-line="963" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+                <element signature="e#146#273#0" expanded="false" />
+                <element signature="e#917#938#0" expanded="false" />
+                <element signature="e#947#1085#0" expanded="false" />
+                <element signature="e#1101#1123#0" expanded="false" />
+                <element signature="e#1132#1328#0" expanded="false" />
+                <element signature="e#1352#2816#0" expanded="false" />
+                <element signature="e#2878#3041#0" expanded="false" />
+                <element signature="e#3044#3982#0" expanded="false" />
+                <element signature="e#3985#5380#0" expanded="false" />
+                <element signature="e#5382#11896#0" expanded="false" />
+                <element signature="e#11898#11947#0" expanded="false" />
+                <element signature="e#11898#13220#0" expanded="false" />
+                <element signature="e#12178#12372#0" expanded="false" />
+                <element signature="e#13222#13263#0" expanded="false" />
+                <element signature="e#13222#13461#0" expanded="false" />
+                <element signature="e#13463#13480#0" expanded="false" />
+                <element signature="e#13463#13591#0" expanded="false" />
+                <element signature="e#13593#13617#0" expanded="false" />
+                <element signature="e#13593#13727#0" expanded="false" />
+                <element signature="e#13730#13746#0" expanded="false" />
+                <element signature="e#13730#14919#0" expanded="false" />
+                <element signature="e#14921#15008#0" expanded="false" />
+                <element signature="e#14921#16154#0" expanded="false" />
+                <element signature="e#15303#15626#0" expanded="false" />
+                <element signature="e#16156#16208#0" expanded="false" />
+                <element signature="e#16156#17867#0" expanded="false" />
+                <element signature="e#17869#17887#0" expanded="false" />
+                <element signature="e#17869#19798#0" expanded="false" />
+                <element signature="e#19800#19849#0" expanded="false" />
+                <element signature="e#19800#20639#0" expanded="false" />
+                <element signature="e#20642#20660#0" expanded="false" />
+                <element signature="e#20642#24605#0" expanded="false" />
+                <element signature="e#24607#24625#0" expanded="false" />
+                <element signature="e#24607#25961#0" expanded="false" />
+                <element signature="e#25963#29532#0" expanded="false" />
+                <element signature="e#26277#26433#0" expanded="false" />
+                <marker date="1527668720000" expanded="false" signature="7490:8827" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#193#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerIssueHeader.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/PlayerIssueHeader.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerRightHeader.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/PlayerRightHeader.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="palyer.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/palyer.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AVFilterContext</find>
+      <find>buffersink_ctx</find>
+      <find>dup_wchar_to_utf8</find>
+      <find>420</find>
+      <find>filter_descrfilter_descr</find>
+      <find>filter_descr</find>
+      <find>apply_filters</find>
+      <find>cleanup</find>
+      <find>pCodecCtx_a</find>
+      <find>ifmt_ctx_a</find>
+      <find>Could not decode audio frame</find>
+      <find>aud_convert_ctx</find>
+      <find>img_convert_ctx</find>
+      <find>prepare before decode and encode</find>
+      <find>dec_pkt</find>
+      <find>END OF AUDIO FILE</find>
+      <find>END OF</find>
+      <find>av_interleaved_write_frame</find>
+      <find>push</find>
+      <find>tempo</find>
+      <find>filter</find>
+      <find>afilters</find>
+      <find>configure_audio_filters</find>
+      <find>atmepo</find>
+      <find>seek</find>
+      <find>sync</find>
+      <find>synchronize_video</find>
+      <find>syn</find>
+      <find>get_audio_clock</find>
+      <find>clock</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial03_alt.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial04_thread.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial03.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/video_sync.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/video_thread.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/tutorial03.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/paly_sound.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/sound_sample.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/audio_filter.mm" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/audio_filter.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/filter_sample copy.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/filter_header.h" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/filter_sample.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/streamer_filter.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_thread.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_sync_right.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/mainheader.h" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/video_sync.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/PlayerIssueHeader.h" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/video_seek.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/PlayerRightHeader.h" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/media_sync.c" />
+        <option value="$PROJECT_DIR$/simplest_ffmpeg_player/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1986" />
+    <option name="y" value="27" />
+    <option name="width" value="1631" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="simplest_ffmpeg_player" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="simplest_ffmpeg_player" type="1d218c8b:XcodeProjectNode" />
+              <item name="simplest_ffmpeg_player" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="simplest_ffmpeg_player" type="1d218c8b:XcodeProjectNode" />
+              <item name="simplest_ffmpeg_player" type="fcab9f18:XcodeViewNode" />
+              <item name="tutorial_issue_version" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="simplest_ffmpeg_player" type="1d218c8b:XcodeProjectNode" />
+              <item name="simplest_ffmpeg_player" type="fcab9f18:XcodeViewNode" />
+              <item name="tutorial_right_version" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="simplest_ffmpeg_player" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.simplest_ffmpeg_player">
+    <configuration name="simplest_ffmpeg_player" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="simplest_ffmpeg_player" TARGET_NAME="simplest_ffmpeg_player" CONFIG_NAME="Debug" SCHEME_NAME="simplest_ffmpeg_player" RUN_TARGET_PROJECT_NAME="simplest_ffmpeg_player" RUN_TARGET_NAME="simplest_ffmpeg_player" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ce718f-c2d1-40aa-bb27-8b7c453d9fa3" name="Default" comment="" />
+      <created>1523604847085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523604847085</updated>
+      <workItem from="1523604848719" duration="33968000" />
+      <workItem from="1524557507626" duration="282000" />
+      <workItem from="1524734303362" duration="194000" />
+      <workItem from="1524817066646" duration="3201000" />
+      <workItem from="1524887684833" duration="15722000" />
+      <workItem from="1525227510693" duration="12815000" />
+      <workItem from="1525249709708" duration="26464000" />
+      <workItem from="1525856836445" duration="17161000" />
+      <workItem from="1526980042570" duration="13203000" />
+      <workItem from="1527069591434" duration="27008000" />
+      <workItem from="1527666833565" duration="1877000" />
+      <workItem from="1527762001193" duration="333000" />
+      <workItem from="1528197001018" duration="4276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156504000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1986" y="27" width="1631" height="1025" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1900621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13763441" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21675454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18924731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25698924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="55" y="486" width="1707" height="547" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43970895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="113" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavcodec/version.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="95" column="8" lean-forward="false" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libswscale/swscale.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="293" column="12" lean-forward="true" selection-start-line="293" selection-start-column="12" selection-end-line="293" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavformat/avio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="245" column="8" lean-forward="false" selection-start-line="245" selection-start-column="8" selection-end-line="245" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/paly_sound.c" />
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/sound_sample.c" />
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial03.c" />
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/time.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavformat/avformat.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48783">
+          <caret line="2323" column="3" lean-forward="false" selection-start-line="2323" selection-start-column="3" selection-end-line="2323" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/video_seek.c" />
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/video_sync.c" />
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/video_thread.c" />
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/rational.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="103" column="21" lean-forward="false" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../SDL2/SDL_timer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="92" column="36" lean-forward="false" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/dict.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2709">
+          <caret line="129" column="4" lean-forward="false" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7854">
+          <caret line="374" column="15" lean-forward="false" selection-start-line="374" selection-start-column="15" selection-end-line="374" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../SDL2/SDL_mutex.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="196" column="34" lean-forward="false" selection-start-line="196" selection-start-column="34" selection-end-line="196" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../SDL2/SDL_audio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="122" column="8" lean-forward="false" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+          <folding>
+            <element signature="e#3940#4087#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/samplefmt.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3339">
+          <caret line="159" column="4" lean-forward="false" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libswresample/swresample.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6405">
+          <caret line="305" column="4" lean-forward="false" selection-start-line="305" selection-start-column="4" selection-end-line="305" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/audio_filter.h" />
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/channel_layout.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="94" column="8" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="138" column="28" lean-forward="true" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavfilter/buffersrc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="174" column="4" lean-forward="false" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/md5.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="9" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/filter_header copy.h" />
+    <entry file="file://$PROJECT_DIR$/../../SDL2/SDL_pixels.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="278" column="4" lean-forward="false" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavfilter/avfilter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="924" column="2" lean-forward="false" selection-start-line="924" selection-start-column="2" selection-end-line="924" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/mem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="471" column="6" lean-forward="false" selection-start-line="471" selection-start-column="6" selection-end-line="471" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavfilter/buffersink.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="139" column="4" lean-forward="false" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/frame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="273" column="8" lean-forward="false" selection-start-line="273" selection-start-column="8" selection-end-line="273" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavcodec/avcodec.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="4569" column="5" lean-forward="false" selection-start-line="4569" selection-start-column="5" selection-end-line="4569" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ffmpeg3.4.2/libavutil/avutil.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="253" column="8" lean-forward="false" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../FFmpeg-master/fftools/ffmpeg_filter.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12500">
+          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../FFmpeg-master/fftools/ffplay.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="2007" column="19" lean-forward="false" selection-start-line="2007" selection-start-column="19" selection-end-line="2007" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/mainheader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/filter/filter_header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/filter/audio_filter.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="214" column="47" lean-forward="false" selection-start-line="214" selection-start-column="47" selection-end-line="214" selection-end-column="47" />
+          <folding>
+            <element signature="e#694#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/filter/filter_sample.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="56" column="43" lean-forward="false" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/filter/streamer_filter.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="246" column="4" lean-forward="false" selection-start-line="246" selection-start-column="4" selection-end-line="246" selection-end-column="4" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+            <element signature="e#1489#2044#0" expanded="false" />
+            <element signature="e#15827#16042#0" expanded="false" />
+            <element signature="e#26558#26712#0" expanded="false" />
+            <element signature="e#28115#28382#0" expanded="false" />
+            <element signature="e#28595#28937#0" expanded="false" />
+            <element signature="e#29220#29406#0" expanded="false" />
+            <element signature="e#29669#29849#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/tutorial03.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6353">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_thread2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="922" column="5" lean-forward="false" selection-start-line="922" selection-start-column="5" selection-end-line="922" selection-end-column="5" />
+          <folding>
+            <element signature="e#130#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/palyer.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/video_thread.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="963" column="4" lean-forward="false" selection-start-line="963" selection-start-column="4" selection-end-line="963" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#146#273#0" expanded="false" />
+            <element signature="e#917#938#0" expanded="false" />
+            <element signature="e#947#1085#0" expanded="false" />
+            <element signature="e#1101#1123#0" expanded="false" />
+            <element signature="e#1132#1328#0" expanded="false" />
+            <element signature="e#1352#2816#0" expanded="false" />
+            <element signature="e#2878#3041#0" expanded="false" />
+            <element signature="e#3044#3982#0" expanded="false" />
+            <element signature="e#3985#5380#0" expanded="false" />
+            <element signature="e#5382#11896#0" expanded="false" />
+            <element signature="e#11898#11947#0" expanded="false" />
+            <element signature="e#11898#13220#0" expanded="false" />
+            <element signature="e#12178#12372#0" expanded="false" />
+            <element signature="e#13222#13263#0" expanded="false" />
+            <element signature="e#13222#13461#0" expanded="false" />
+            <element signature="e#13463#13480#0" expanded="false" />
+            <element signature="e#13463#13591#0" expanded="false" />
+            <element signature="e#13593#13617#0" expanded="false" />
+            <element signature="e#13593#13727#0" expanded="false" />
+            <element signature="e#13730#13746#0" expanded="false" />
+            <element signature="e#13730#14919#0" expanded="false" />
+            <element signature="e#14921#15008#0" expanded="false" />
+            <element signature="e#14921#16154#0" expanded="false" />
+            <element signature="e#15303#15626#0" expanded="false" />
+            <element signature="e#16156#16208#0" expanded="false" />
+            <element signature="e#16156#17867#0" expanded="false" />
+            <element signature="e#17869#17887#0" expanded="false" />
+            <element signature="e#17869#19798#0" expanded="false" />
+            <element signature="e#19800#19849#0" expanded="false" />
+            <element signature="e#19800#20639#0" expanded="false" />
+            <element signature="e#20642#20660#0" expanded="false" />
+            <element signature="e#20642#24605#0" expanded="false" />
+            <element signature="e#24607#24625#0" expanded="false" />
+            <element signature="e#24607#25961#0" expanded="false" />
+            <element signature="e#25963#29532#0" expanded="false" />
+            <element signature="e#26277#26433#0" expanded="false" />
+            <marker date="1527668720000" expanded="false" signature="7490:8827" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/PlayerRightHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_right_version/sound_sample.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#657#795#0" expanded="false" />
+            <element signature="e#818#1773#0" expanded="false" />
+            <element signature="e#1827#1981#0" expanded="false" />
+            <element signature="e#1983#2521#0" expanded="false" />
+            <element signature="e#2523#3338#0" expanded="false" />
+            <element signature="e#3340#3721#0" expanded="false" />
+            <element signature="e#3723#9119#0" expanded="false" />
+            <element signature="e#9121#10028#0" expanded="false" />
+            <element signature="e#10030#13860#0" expanded="false" />
+            <element signature="e#13861#14112#0" expanded="false" />
+            <element signature="e#13861#15821#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/media_sync.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1121" column="11" lean-forward="true" selection-start-line="1121" selection-start-column="11" selection-end-line="1121" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/PlayerIssueHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/paly_sound.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/tutorial_issue_version/video_seek.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="903" column="13" lean-forward="false" selection-start-line="903" selection-start-column="13" selection-end-line="903" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#1062#1200#0" expanded="false" />
+            <element signature="e#1224#1432#0" expanded="false" />
+            <element signature="e#1456#3362#0" expanded="false" />
+            <element signature="e#3376#3465#1" expanded="false" />
+            <element signature="e#3469#3564#0" expanded="false" />
+            <element signature="e#3632#3786#0" expanded="false" />
+            <element signature="e#3788#4369#0" expanded="false" />
+            <element signature="e#4370#5155#0" expanded="false" />
+            <element signature="e#5157#5537#0" expanded="false" />
+            <element signature="e#5539#6015#0" expanded="false" />
+            <element signature="e#6016#6199#0" expanded="false" />
+            <element signature="e#6200#6289#0" expanded="false" />
+            <element signature="e#6291#6580#0" expanded="false" />
+            <element signature="e#6583#6664#0" expanded="false" />
+            <element signature="e#6583#9127#0" expanded="false" />
+            <element signature="e#9129#11357#0" expanded="false" />
+            <element signature="e#11359#12486#0" expanded="false" />
+            <element signature="e#12488#12710#0" expanded="false" />
+            <element signature="e#12712#12867#0" expanded="false" />
+            <element signature="e#12869#14027#0" expanded="false" />
+            <element signature="e#14029#16525#0" expanded="false" />
+            <element signature="e#15150#15277#0" expanded="false" />
+            <element signature="e#16527#18153#0" expanded="false" />
+            <element signature="e#18155#19735#0" expanded="false" />
+            <element signature="e#19737#20332#0" expanded="false" />
+            <element signature="e#20334#21521#0" expanded="false" />
+            <element signature="e#21523#24425#0" expanded="false" />
+            <element signature="e#24427#28202#0" expanded="false" />
+            <element signature="e#28204#28419#0" expanded="false" />
+            <element signature="e#30444#30672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplest_ffmpeg_player/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#193#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

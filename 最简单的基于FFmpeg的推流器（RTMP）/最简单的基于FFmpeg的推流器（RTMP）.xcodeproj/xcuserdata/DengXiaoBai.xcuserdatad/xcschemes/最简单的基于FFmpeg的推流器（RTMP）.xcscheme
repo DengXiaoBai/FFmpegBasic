@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "84CC0AC1207EFA3C00C1E762"
+               BuildableName = "&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;"
+               BlueprintName = "&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;"
+               ReferencedContainer = "container:&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "84CC0AC1207EFA3C00C1E762"
+            BuildableName = "&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;"
+            BlueprintName = "&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;"
+            ReferencedContainer = "container:&#26368;&#31616;&#21333;&#30340;&#22522;&#20110;FFmpeg&#30340;&#25512;&#27969;&#22120;&#65288;RTMP&#65289;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
