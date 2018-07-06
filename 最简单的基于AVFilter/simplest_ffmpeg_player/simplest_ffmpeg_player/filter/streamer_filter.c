@@ -270,7 +270,7 @@ int push_with_filter(char* vedio_url, char* audio_url,FILTERS f) {
     int i;
     int ret;
 
-    const char* out_path = "rtmp://localhost:1935/rtmplive";
+    const char* out_path = "rtmp://10.0.1.104:1935/live/dxb";
     int dec_got_frame, enc_got_frame;
     int dec_got_frame_a, enc_got_frame_a;
 

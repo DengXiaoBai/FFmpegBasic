@@ -23,12 +23,12 @@ int main(int argc, const char * argv[]) {
 //  ret = video_watermark(file);
 
 //  audio_filter(file, "500");
-
-//    char *a_file = "/Users/stringstech-macmini1/Desktop/AV_Study/media_src/Shape_of_you.mp3";
 //    ret = push_with_filter(v_file, a_file, FILTER_SPLIT4);
 
     // FIXME : 播放ani.mp4没有问题, 播放shameless.mkv没有人的声音 播放4k视频有问题
-    ret = play_media_with_sync(v_file);
+//    ret = play_media_with_sync(v_file);
+
+    ret = play_sound_only("/Users/stringstech-macmini1/Desktop/AV_Study/media_src/说散就散.ape");
 
     return ret;
 }
