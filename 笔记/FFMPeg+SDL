@@ -1,0 +1,151 @@
+. 音视频基础
+
+注意FFmpeg里面的AVFrame和 和 Android Audio里面的Frame, 两者不完全是同一个概念
+
+要充分理解AVFrame 和 Java Frame 是不一样的概念, 因为对frame定义的不一样导致很多属性计算方式也不一样
+. frameSize 不一样
+. frameRate 不一样
+. .........
+
+Android Audio 裡的各種設定和其關係: http://janbarry0914.blogspot.com/2014/11/android-audio.html
+
+Android Audio[ frame ]
+單聲道 ( mono ) = 1 sample = 1 frame ;
+雙聲道 ( stereo) = 2 samples = 1 frame;
+5.1聲道(左, 中央,  右, 右後, 左後, 低音) = 6 samples = 1 frame
+所以, frame size 的計算公式如下
+frame size = bit depth * channels
+
+以下是節錄至 alsa.opensrc.org 關於 frame 的定義, 供大家參考
+A frame is a set of samples, one per channel, at a particular instant in time. For stereophonic audio, a frame consists of two samples. For Dolby 5.1 Surround Sound, a frame would consist of six samples (left channel, center channel, right channel, rear right, rear left, and the low frequency channel). For monophonic audio, a frame is equivalent to one sample.
+
+
+
+
+
+视频pts计算
+ // 帧率
+ fps = q(r_frame_rate) = q(avg_frame_rate)
+                             
+ // 秒为单位
+ calc_duration  = 1 / fps
+ pts_time = pts * q(time_base) = (frame_index * calc_duration)
+ dts_time = dts * q(time_base) = (frame_index * calc_duration)
+                             
+//pts / dts / duration单位是时间基, 不是简单的毫秒
+  pts = (frame_index * calc_duration) / q(time_base)
+  duration = calc_duration / q(time_base)
+  dts = pts
+  pts_diff = (frame_index + 1) *calc_duration / q(time_base) - frame_index *calc_duration / q(time_base) 
+           = calc_duration / q(time_base) = 1 / (q(time_base)*q(r_frame_rate) )
+
+
+
+音频pts计算
+AVFrame->nb_samples: number of audio samples (per channel) described by this frame
+AVCodecContext->frame_size: Number of samples per channel in an audio frame.
+
+ sample_rate: 采样率, 每一秒钟的采样个数
+ nb_samples : 一帧音频中,每个声道的采样个数
+ sample_format: 音频格式, 决定每个音频的byte大小
+ channels : 声道数, 通道数, 每个声道的采样率是一样的
+
+ >>>>
+ samples_in_frame = nb_samples * channels , 一帧音频的采样数
+ samples_per_second = sample_rate * channels
+ frame_rate = samples_per_second / samples_in_frame = sample_rate / nb_samples, 1s 中 frames的个数
+ frame_duration = 1000 / frame_rate , frame时间长度(毫秒)
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+. ffmpeg基础
+  . Xcode 配置开发环境
+  . 常用库,常用函数
+
+. SDL基础
+  . Xcode 配置开发环境
+  . 常用库,常用函数
+
+疑问:
+ . 双重指针和指针数组什么关系??
+   AVStream **streams;
+   streams[i]
+
+
+概念理解
+ . bitrate 码率   ,   每一秒有多少bit数据
+ . framerate 帧率 ,   每一秒有多少帧数据
+ . aspect_ratio 分辨率
+
+
+
+1. 看下基础的函数
+   音视频基础知识
+   视频解码
+   视频编码
+
+   音频解码
+   音频编码
+
+   音视频合成
+  
+2. 看下有没有pts/ dts的资料, 怎么用 --> 没有,找
+3. 看教程, 主要看过程, 不看结果, 特别是同步那一块
+
+
+The DTS (Decoding Time Stamp) and PTS (Presentation Time Stamp) timestamps are when
+the decoder is supposed to decode and display the frame relative to the SCR (System Clock
+Reference) timestamp. The SCR can be thought of as the time the decoder is supposed to read
+the data from the disk.
+Every packet of data in the mpeg file has an SCR timestamp and this timestamp is the value
+the system clock should be at when the packet is read. Usually, a decoder will start the system
+clock when it starts reading an mpeg stream (the initial value of the system clock is the SCR
+from the first packet of data, usually zero but it does not have to start at zero).
+The DTS timestamp tells the decoder to decode the frame when the SCR time reaches the
+DTS time, likewise for the PTS timestamp. Usually, the DTS/PTS timestamps indicate a time
+later than the SCR of the packet the video/audio appear in. For example, if the SCR of a
+packet of video data is 100ms (meaning it is read from the disk 100ms after the start of
+playback), the DTS/PTS values would be something like 200/280ms, meaning when the SCR
+reaches 200ms this video data is supposed to be decoded and then 80ms later it is to be
+displayed (the video data is held in a buffer until decoding time).
+
+
+// B帧是双向预测帧, 要根据前面的I/P帧和后面的I/P帧去decode
+// P帧是向前预测帧, 要根据前面的I/P帧去decode
+// 一般来说第一帧解码的就是I帧. 真是有B帧的存在, 才导致了pts 和 dts的不一样
+
+
+今天要搞清楚的是, 为什么单独播音频有用而音视频一起播没有用!!!!!
+ . 查看2份代码, 看下有什么不一样的地方
+ . 一份代码一份代码看, 不着急
+ . 画流程图, 注释, 慢慢累积
+
+
+主要功能
+
+. 解码分流输出
+  . 音视频同步
+  . 输出音视(只能输出2路) ---> 音频线
+    . 正在播放的音频
+    . 预览音频 + 预览音
+  . 视频输出(现在有2路)   ----> HDMI1 HDMI2
+    . 正在播放的无音效的视频(HDMI1)
+    . 正在播放的有音效的音视频(HDMI2)
+
+. 解码推流到流服务器 (本机)
+  . rtmp + flv 
+  . 同一个封装格式里面的 音频 + 视频
+  . 不同封装格式里面的 音频 + 视频
+  . 单独push音频
+
+. 无缝播放
+  . 顺序播放
+  . 用户随意操作
+
+. 音视频播放
+  . 快进 / 暂停 / 播放
+
+. 音效波形图采样
